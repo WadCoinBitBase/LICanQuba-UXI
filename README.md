@@ -1,5 +1,4 @@
-#GeneToken/WadCoin/BitBase/FHe mBit
-
+WadCoinBitBase
 
 
 FHe $m.
